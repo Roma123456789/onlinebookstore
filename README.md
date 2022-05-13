@@ -1,6 +1,6 @@
 # OnlineBookStore Website Using Java 
 ### Online Book Store
-#Changed code Version 14
+#Changed code Version 15
 <span style="color:blue">**This Website is built for following purpose:-**</span>
 - For Selling books online
 - Maintaining books selling history
@@ -9,7 +9,7 @@
 ## For Implemention of Generic Servlets in Java<!-- This is a Mini-project developed using Java, Jdbc, And Generic Servlets-->
 
 <span style="color:blue">**Admin Have Following Access for this online store site:-**</span>
-- Add New Books
+- Add New Books of life
 - View Books Available
 - Remove Books
 - Increase Books Amount of
